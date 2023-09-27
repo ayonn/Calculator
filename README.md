@@ -1,2 +1,2 @@
-# Clculator
+# Calculator
 operatable calculator
